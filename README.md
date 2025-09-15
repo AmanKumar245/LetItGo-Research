@@ -1,5 +1,5 @@
 
-ShotOut Feature Implementaion testing 1.
+ShoutOut Feature Implementaion testing 1.
 
 
 ## Step 1: Start Metro
